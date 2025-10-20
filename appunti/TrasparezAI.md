@@ -1,0 +1,1 @@
+Basata su un’architettura modulare con microservizi dockerizzati, TrasparenzAI è _riutilizzabile per progetti basati su tecniche di web scraping programmabile_. I componenti software sviluppati sono rilasciati alla comunità con licenza opensource
