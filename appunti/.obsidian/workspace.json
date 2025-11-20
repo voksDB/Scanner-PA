@@ -4,21 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "a6c8584f347e3ead",
+        "id": "fc0c122f18737936",
         "type": "tabs",
         "children": [
           {
-            "id": "f88d54ec56de7998",
+            "id": "90e11d53a61d30ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TrasparezAI.md",
+                "file": "domande embedded/ARDUINO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TrasparezAI"
+              "title": "ARDUINO"
+            }
+          },
+          {
+            "id": "6c9ac19eef790411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "domande embedded/risposte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "risposte"
+            }
+          },
+          {
+            "id": "deae258b65f83de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Open Data Privacy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Open Data Privacy"
             }
           }
         ]
@@ -95,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TrasparezAI.md",
+                "file": "LA PIPELINE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TrasparezAI"
+              "title": "Backlinks for LA PIPELINE"
             }
           },
           {
@@ -114,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TrasparezAI.md",
+                "file": "LA PIPELINE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TrasparezAI"
+              "title": "Outgoing links from LA PIPELINE"
             }
           },
           {
@@ -143,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TrasparezAI.md",
+                "file": "LA PIPELINE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TrasparezAI"
+              "title": "Outline of LA PIPELINE"
             }
           }
         ]
@@ -170,8 +198,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "f88d54ec56de7998",
+  "active": "90e11d53a61d30ff",
   "lastOpenFiles": [
-    "TrasparezAI.md"
+    "domande embedded/Il Sistema Operativo.md",
+    "domande embedded/risposte.md",
+    "Open Data Privacy.md",
+    "domande embedded/ARDUINO.md",
+    "domande embedded/Extra & Rete.md",
+    "domande embedded/Intro e Concetti Generali.md",
+    "domande embedded/MEMO, io E la comunicazione.md",
+    "domande embedded/Richiami di Elettronica.md",
+    "IMG/Pasted image 20251119163942.png",
+    "IMG/Pasted image 20251117175312.png",
+    "IMG/Pasted image 20251117173615.png",
+    "IMG/Pasted image 20251117173559.png",
+    "IMG/Pasted image 20251117171243.png",
+    "IMG/Pasted image 20251114183338.png",
+    "IMG/Pasted image 20251114175719.png",
+    "IMG/Pasted image 20251114174331.png",
+    "IMG/Pasted image 20251114170516.png",
+    "IMG/Pasted image 20251114170433.png",
+    "domande embedded",
+    "Vettori D'attacco.md",
+    "LA PIPELINE.md",
+    "Linee guida Amministrazione Trasparente.md",
+    "The Plan.md",
+    "TrasparezAI.md",
+    "IMG",
+    "garante.md"
   ]
 }
